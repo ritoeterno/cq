@@ -1,0 +1,69 @@
+﻿#EXTM3U url-tvg="https://epg.best/d855-pfhpzh.xml" x-tvg-url="https://epg.best/d855-pfhpzh.xml"
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name="Canal Uno CO" tvg-logo="http://cloudmedia.co/iptv/logos/canal_1.png" tvg-chno="1" channel-id="1" group-title="TV EN VIVO",CANAL UNO FHD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/86780
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name="Canal Uno CO" tvg-logo="http://cloudmedia.co/iptv/logos/canal_1.png" tvg-chno="2" channel-id="2" group-title="TV EN VIVO",CANAL UNO HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/86781
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol CO" tvg-logo="http://cloudmedia.co/iptv/logos/caracol.png" tvg-chno="3" channel-id="3" group-title="TV EN VIVO",CANAL CARACOL HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/86775
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN CO" tvg-logo="http://cloudmedia.co/iptv/logos/rcn.png" tvg-chno="4" channel-id="4" group-title="TV EN VIVO",CANAL RCN HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/86215
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="Cosmovision CO" tvg-logo="http://cloudmedia.co/iptv/logos/cosmovision.png" tvg-chno="5" channel-id="5" group-title="TV EN VIVO",CANAL COSMOVISION HD
+http://138.121.13.42:8000/HD
+#EXTINF:-1 tvg-id="Senal.co" tvg-name="Senal Colombia" tvg-logo="http://cloudmedia.co/iptv/logos/senalco.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",SEÑAL COLOMBIA HD
+http://138.121.13.42:8001/SD
+#EXTINF:-1 tvg-id="AgroTV.mx" tvg-name="TV Agro" tvg-logo="http://cloudmedia.co/iptv/logos/tvagro.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",TV AGRO
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/120404
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="CableNoticia" tvg-logo="http://cloudmedia.co/iptv/logos/cablenoticias.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",CABLENOTICIAS HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/120410
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Red TV" tvg-logo="http://cloudmedia.co/iptv/logos/redmas.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",RED MÁS TV HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/121516
+#EXTINF:-1 tvg-id="Televida.do" tvg-name="Televid" tvg-logo="http://cloudmedia.co/iptv/logos/televid.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",TELEVID
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/121508
+#EXTINF:-1 tvg-id="Otv.co" tvg-name="OTV" tvg-logo="http://cloudmedia.co/iptv/logos/otv.png" tvg-chno="5" channel-id="5" group-title="TV EN VIVO",OCCIDENTE TV
+rtmp://192.168.1.250:1935/live/otv
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports CO" tvg-logo="http://cloudmedia.co/iptv/logos/win.png" tvg-chno="6" channel-id="6" group-title="TV EN VIVO",WIN SPORT HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/91999
+#EXTINF:-1 tvg-id="FoxSports1ConoSur.co" tvg-name="Fox Sports CO" tvg-logo="http://cloudmedia.co/iptv/logos/fs.png" tvg-chno="7" channel-id="7" group-title="TV EN VIVO",FOX SPORTS HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92257
+#EXTINF:-1 tvg-id="FoxSports2ConoSur.co" tvg-name="Fox Sports 2 CO" tvg-logo="http://cloudmedia.co/iptv/logos/fs2.png" tvg-chno="8" channel-id="8" group-title="TV EN VIVO",FOX SPORTS 2 HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92265
+#EXTINF:-1 tvg-id="FoxSports3ConoSur.co" tvg-name="Fox Sports 3 AR" tvg-logo="http://cloudmedia.co/iptv/logos/fs3.png" tvg-chno="9" channel-id="9" group-title="TV EN VIVO",FOX SPORTS 3 HD (REVISAR)
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92270
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN CO" tvg-logo="http://cloudmedia.co/iptv/logos/espn.png" tvg-chno="10" channel-id="10" group-title="TV EN VIVO",ESPN FHD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92268
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN 2 CO" tvg-logo="http://cloudmedia.co/iptv/logos/espn2.png" tvg-chno="11" channel-id="11" group-title="TV EN VIVO",ESPN 2 FHD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92263
+#EXTINF:-1 tvg-id="ESPN3.co" tvg-name="ESPN 3 CO" tvg-logo="http://cloudmedia.co/iptv/logos/espn3.png" tvg-chno="12" channel-id="12" group-title="TV EN VIVO",ESPN 3 FHD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92262
+#EXTINF:-1 tvg-id="AnimalPlanet.co" tvg-name="Animal Planet CO" tvg-logo="http://cloudmedia.co/iptv/logos/ap.png" tvg-chno="13" channel-id="13" group-title="TV EN VIVO",ANIMAL PLANET HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/96389
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel MX" tvg-logo="http://cloudmedia.co/iptv/logos/discovery.png" tvg-chno="14" channel-id="14" group-title="TV EN VIVO",DISCOVERY CHANNEL HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/96386
+#EXTINF:0 tvg-id="DiscoveryHomeAndHealth.co" tvg-name="Discovery Home & Health CO" tvg-logo="http://cloudmedia.co/iptv/logos/h&h.png" tvg-chno="15" channel-id="15" group-title="TV EN VIVO",DISCOVERY HOME & HEAT HD
+http://172.30.9.2:8080/hls/prueba.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo BR" tvg-logo="http://cloudmedia.co/iptv/logos/turbo.png" tvg-chno="16" channel-id="16" group-title="TV EN VIVO",DISCOVERY TURBO HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/102910
+#EXTINF:-1 tvg-id="HistoryChannel.co" tvg-name="History Channel CO" tvg-logo="http://cloudmedia.co/iptv/logos/history.png" tvg-chno="17" channel-id="17" group-title="TV EN VIVO",HISTORY CHANNEL HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/96392
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2 MX" tvg-logo="http://cloudmedia.co/iptv/logos/h2.png" tvg-chno="18" channel-id="18" group-title="TV EN VIVO",H2 HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92383
+#EXTINF:-1 tvg-id="NationalGeographic.co" tvg-name="National Geographic CO" tvg-logo="http://cloudmedia.co/iptv/logos/natgeo.png" tvg-chno="19" channel-id="19" group-title="TV EN VIVO",NATGEO HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/96383
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="Nat Geo Wild ES" tvg-logo="http://cloudmedia.co/iptv/logos/wild.png" tvg-chno="20" channel-id="20" group-title="TV EN VIVO",NATGEO WILD HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/102904
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang MX" tvg-logo="http://cloudmedia.co/iptv/logos/boomerang.png" tvg-chno="21" channel-id="21" group-title="TV EN VIVO",BOOMERANG
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/15094
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Cartoon Network CO" tvg-logo="http://cloudmedia.co/iptv/logos/cn.png" tvg-chno="22" channel-id="22" group-title="TV EN VIVO",CARTOON NETWORK HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92718
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Discovery Kids CO" tvg-logo="http://cloudmedia.co/iptv/logos/dk.png" tvg-chno="23" channel-id="23" group-title="TV EN VIVO",DISCOVERY KIDS HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92717
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel MX" tvg-logo="http://cloudmedia.co/iptv/logos/disney.png" tvg-chno="24" channel-id="24" group-title="TV EN VIVO",DISNEY CHANNEL HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92716
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="NatGeo Kids MX" tvg-logo="http://cloudmedia.co/iptv/logos/nk.png" tvg-chno="25" channel-id="25" group-title="TV EN VIVO",NATGEO KIDS HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92715
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon MX" tvg-logo="http://cloudmedia.co/iptv/logos/nick.png" tvg-chno="26" channel-id="26" group-title="TV EN VIVO",NICKELODEON HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92712
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Nick 2 CO" tvg-logo="http://cloudmedia.co/iptv/logos/nick2.png" tvg-chno="27" channel-id="27" group-title="TV EN VIVO",NICK 2 HD
+http://tv.latintvweb.com:25461/AlexisGuzman/YL1Pbmd8ex/92714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cloudmedia.co/iptv/logos/nick2.png" tvg-chno="28" channel-id="28" group-title="RADIO",ONDAS DEL TONUSCO
+http://18.218.181.196:90/odt1044.mp3
